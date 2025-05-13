@@ -1,0 +1,25 @@
+# Source files
+src/
+
+# Config files
+.eslintrc.json
+.prettierrc
+tsconfig.json
+
+# Examples
+examples/
+
+# GitHub
+.github/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+coverage/
+.env
+.env.*
+*.log
+node_modules/
+example.env 
